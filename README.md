@@ -7,8 +7,8 @@ This space is <strong>less</strong> about finished products
     <br> and <b>more</b> about the process of <b>experimentation</b>,
     <br> <i>refining</i> ideas, and gradually developing better local tools.
 
-Most projects here are small studies, evolving tools, or creative experiments.  
-This space is for **exploring, refining ideas, and crafting things that work quietly**.
+<p align=center> Most projects here are small studies, evolving tools, or creative experiments.  
+This space is for **exploring, refining ideas, and crafting things that work quietly**.</p>
 
 </table>
 
