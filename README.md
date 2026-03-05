@@ -24,7 +24,9 @@ Workspace
 - huggingface.co/tiahchia
 
 </td>
-</tr></table>--- Current Focus
+</tr></table>
+
+--- Current Focus
 ![status](https://img.shields.io/badges/status-exploring-lightgrey)
 ![process](https://img.shields.io/badges/process-learning-grey)
 ![focus](https://img.shields.io/badges/focus-building-darkgrey)
@@ -58,3 +60,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br><br><br><br><br>
