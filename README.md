@@ -23,10 +23,10 @@ Learning through building
 <h3 align=center> 🧪 Stuff</h1>
 
    | Experiments | Status | Links |
-|------------|-------|-----------|
-| Agentic Workflows + Training Sandbox + Backend Systems | HF - ✔️ | [huggingfacespaces.com/tiahchia](https://huggingface.co/tiahchia)   |
-| HTML/CSS/JS + Frontend Systems + Simply Static Systems  | GH  - ✔️ | [GitHub Pages](https://tiahchia.github.io)  |
-| Web Templates +  Web Development + Server-less| Site - ✔️ |  [simpleandstatic.com](https://simpleandstatic.com)  |
+   |------------|-------|-----------|
+   | Agentic Workflows + Training Sandbox + Backend Systems | HF - ✔️ | [huggingfacespaces.com/tiahchia](https://huggingface.co/tiahchia)   |
+   | HTML/CSS/JS + Frontend Systems + Simply Static Systems  | GH  - ✔️ | [GitHub Pages](https://tiahchia.github.io)  |
+   | Web Templates +  Web Development + Server-less| Site - ✔️ |  [simpleandstatic.com](https://simpleandstatic.com)  |
 
 ---
 
