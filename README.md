@@ -1,4 +1,4 @@
-## ✨ Hi I'm Tiah ✨
+##  Hi I'm Tiah!
 
 <p align="center">
   <!-- GIF hosted in your repo for reliability -->
@@ -21,9 +21,9 @@ Here, it’s all about **process over perfection** — exploring software, small
 ### 🎯 Current Focus
 
 <p align="center">
-  ![status](https://img.shields.io/badge/status-exploring-ff69b4?style=for-the-badge)  
-  ![process](https://img.shields.io/badge/process-learning-ff69b4?style=for-the-badge)  
-  ![focus](https://img.shields.io/badge/focus-building-darkgrey?style=for-the-badge)
+  ![status](https://img.shields.io/badge/status-exploring-ff69b4)
+  ![process](https://img.shields.io/badge/process-learning-ff69b4)
+  !![focus](https://img.shields.io/badge/focus-building-ff69b4)
 </p>
 
 ---
