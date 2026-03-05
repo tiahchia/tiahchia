@@ -33,21 +33,6 @@ This space is for **exploring, refining ideas, and crafting things that work qui
 
 ---
 
-## 📦 Selected Projects
-
-Pinned repositories below represent current areas of exploration.  
-*(Use GitHub’s “Customize your pins” to select your top projects)*
-
----
-
-## 📊 GitHub Stats
-
-<!-- Live stats, hot-pink accents possible -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tiahchia&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tiahchia&layout=compact&theme=radical)
-
----
 
 ## ⚙ Philosophy
 
