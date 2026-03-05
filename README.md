@@ -27,9 +27,9 @@ Workspace
 </tr></table>
 
 --- Current Focus
-![status](https://img.shields.io/badges/status-exploring-lightgrey)
-![process](https://img.shields.io/badges/process-learning-grey)
-![focus](https://img.shields.io/badges/focus-building-darkgrey)
+![status](https://img.shields.io/badge/status-exploring-lightgrey)
+![process](https://img.shields.io/badge/process-learning-grey)
+![focus](https://img.shields.io/badge/focus-building-darkgrey)
 ---
 
 Selected Projects
