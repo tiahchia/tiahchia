@@ -27,6 +27,5 @@ This space is <strong>less</strong> about finished products
    | HTML/CSS/JS + Frontend Systems + Simply Static Systems + Explorative Projects |  ✔️ | [GitHub Pages](https://tiahchia.github.io)  |
    | Webpage Templates +  Webpage Development + Server-less Mobile Applications  | ✔️ |  [simpleandstatic.com](https://simpleandstatic.com)  |
 
----
 
 <h1 align=center> 🌙 Thanks for stopping by! 🤍
