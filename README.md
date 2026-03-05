@@ -28,13 +28,4 @@ This space is <strong>less</strong> about finished products
    | Web Templates +  Web Development + Server-less| Site - ✔️ |  [simpleandstatic.com](https://simpleandstatic.com)  |
 
 ---
-<marquee direction="left">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWtxNDc5N3Z6azB3cGYxbng0YTVjNDgxcW44aTRkbHByaXdsMjN0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fSGFIxCnw65Viiu2xB/giphy.gif" height="120">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGswYmU0ZTcxajU2cHV4M2s0dHcxNmthNDZoM2Rya3E4NWlidDI5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X8k5k7wtsWkSJDgBwv/giphy.gif" height="120">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWpyczlsczNpdXE3N3hwMzQ1aHhodzY4dXRsbGE4dWk4bmFweGc0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1La2wFgSZFWZa/giphy.gif" height="120">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZrbXJ6MjhjbzZ1MXExcmw4bDQ0NW05ZmhwZzltM2JnYjc2NmwyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6HHscsdlKTGzm/giphy.gif" height="120">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanVib2R3a2ZsNzFramRjYWxlZ2ZmNXY1cG50OGdnbzJ1YWc5bWV0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2Hs1d6ebO5Lpu/giphy.gif" height="120">
-</marquee>
 
-</p>
-</table>
