@@ -24,9 +24,9 @@ Learning through building
 
 | Experiments | Pages | Status |
 |------------|-------|-----------|
-| Agentic + Training Sandbox | Backend Systems | [huggingfacespaces.com/tiahchia](https://huggingface.co/tiahchia)  - ✔️ |
-| HTML/CSS/JS + Frontend Systems  | Static Uploads| [GitHub Pages](https://tiahchia.github.io)  - ✔️ |
-| Web Templates + Simple Web Development | Display + Gallery |  [simpleandstatic.com](https://simpleandstatic.com) - ✔️ |
+| Agentic Workflows + Training Sandbox + Backend Systems | HF | [huggingfacespaces.com/tiahchia](https://huggingface.co/tiahchia)  - ✔️ |
+| HTML/CSS/JS + Frontend Systems + Simply Static Systems  | GH | [GitHub Pages](https://tiahchia.github.io)  - ✔️ |
+| Web Templates +  Web Development + Server-less| Display + Gallery |  [simpleandstatic.com](https://simpleandstatic.com) - ✔️ |
 
 ---
 
