@@ -20,7 +20,7 @@ This space is for **exploring, refining ideas, and crafting things that work qui
 |-------------|-------|
 | Local & Offline Systems | [simpleandstatic.com](https://simpleandstatic.com) |
 | Small Utilities | [GitHub Pages](https://tiahchia.github.io) |
-| Web Experiments | huggingfacespaces.com/tiahchia  |
+| Web Experiments | [huggingfacespaces.com/tiahchia](https://huggingface.co/tiahchia)  |
 | Minimal Infrastructure |  |
 
 ---
