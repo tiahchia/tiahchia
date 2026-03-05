@@ -21,7 +21,7 @@ This space is <strong>less</strong> about finished products
 ---</table>
 
 <h1 align=center> 🚀 Current Focus</h1>
-<table align=center> 
+<p align=center>
 ![Status](https://img.shields.io/badge/status-exploring-lightgrey?style=for-the-badge)
 ![Process](https://img.shields.io/badge/process-learning-grey?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/focus-building-ff69b4?style=for-the-badge&colorA=ff69b4&colorB=ff85c0)
