@@ -2,7 +2,7 @@
 
 <table> 
     <p align=center>
-    This is my <i style="color🌲;">quite corner of the web.</i> <br> 
+    This is my <font-style="color🌲;">quite corner of the web.</i> <br> 
 This space is <strong>less</strong> about finished products 
     <br> and <b>more</b> about the process of <b>experimentation</b>,
     <br> <i>refining</i> ideas, and gradually developing better local tools.
