@@ -25,13 +25,9 @@ Workspace
 
 </td>
 </tr></table>--- Current Focus
-"Exploring"
-(https://img.shields.io/badges/status-exploring-lightgrey)
-"Learning" 
-(https://img.shields.io/badges/process-learning-grey)
-"Building" 
-(https://img.shields.io/badges/focus-building-darkgrey)
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+![status](https://img.shields.io/badges/status-exploring-lightgrey)
+![process](https://img.shields.io/badges/process-learning-grey)
+![focus](https://img.shields.io/badges/focus-building-darkgrey)
 ---
 
 Selected Projects
