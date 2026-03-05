@@ -1,5 +1,53 @@
-## Hi there 👋
+##✨ Hi I'm Tiah ✨
 
+
+This is my quite corner of the web I use to experiment, build and learn. 🌱
+
+Most of what appears here is a part of ongoing exploration of software, small systems, and creative problem-solving. 
+This space is less about finished products and more about the process of experimentation, refining ideas, and gradually developing better local tools. 
+
+---
+
+Workspace 
+
+<table> 
+<tr> 
+<td width="50%">Experiments
+- Local + Offline Systems
+- Web Experiments
+- Small utilities
+- Minimal Infrastructure 
+</td>
+<td width="50%">Pages
+- simpleandstatic.com
+- tiahchia.github.io
+- huggingface.co/tiahchia
+
+</td>
+</tr></table>--- Current Focus
+"Exploring"
+(https://img.shields.io/badges/status-exploring-lightgrey)
+"Learning" 
+(https://img.shields.io/badges/process-learning-grey)
+"Building" 
+(https://img.shields.io/badges/focus-building-darkgrey)
+
+---
+
+Selected Projects
+
+Pinned repos below highlight projects that represent current areas of exploration. 
+
+---
+
+Philosophy
+
+Simple systems - Simple + Static
+Learning through building and exploration. 
+
+---
+
+Thanks for stopping by. 👋
 <!--
 **tiahchia/tiahchia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
