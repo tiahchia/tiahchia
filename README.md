@@ -21,7 +21,7 @@ This space is <strong>less</strong> about finished products
 ---</table>
 
 <h1 align=center> 🚀 Current Focus</h1>
-<p align=center>
+
 ![Status](https://img.shields.io/badge/status-exploring-lightgrey?style=for-the-badge)
 ![Process](https://img.shields.io/badge/process-learning-grey?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/focus-building-ff69b4?style=for-the-badge&colorA=ff69b4&colorB=ff85c0)
@@ -30,10 +30,10 @@ This space is <strong>less</strong> about finished products
 
 
 <h1 align=center> ⚙ Philosophy </h1>
-
+ <p align=center>
 Simple systems  
 Thoughtful design  
-Learning through building
+Learning through building</p>
 
 
 </p>
