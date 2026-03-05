@@ -21,11 +21,11 @@ This space is <strong>less</strong> about finished products
 
 <h3 align=center> 🧪 my stuff</h1>
 
-   | Experiments | Status | Links |
+   | Projects + Experiments | Status | Links |
    |------------|-------|-----------|
-   | Agentic Workflows + Training Sandbox + Backend Systems | HF - ✔️ | [huggingfacespaces.com/tiahchia](https://huggingface.co/tiahchia)   |
-   | HTML/CSS/JS + Frontend Systems + Simply Static Systems  | GH  - ✔️ | [GitHub Pages](https://tiahchia.github.io)  |
-   | Web Templates +  Web Development + Server-less| Site - ✔️ |  [simpleandstatic.com](https://simpleandstatic.com)  |
+   | Agentic Workflows + Training Sandbox + Backend Systems - GPU | HF - ✔️ | [huggingfacespaces.com/tiahchia](https://huggingface.co/tiahchia)   |
+   | HTML/CSS/JS + Frontend Systems + Simply Static Systems - CPU | GH  - ✔️ | [GitHub Pages](https://tiahchia.github.io)  |
+   | Web Templates +  Web Development + Server-less -CPU | Site - ✔️ |  [simpleandstatic.com](https://simpleandstatic.com)  |
 
 ---
 
