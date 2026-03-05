@@ -31,7 +31,7 @@ This space is <strong>less</strong> about finished products
 
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWtxNDc5N3Z6azB3cGYxbng0YTVjNDgxcW44aTRkbHByaXdsMjN0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fSGFIxCnw65Viiu2xB/giphy.gif">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGswYmU0ZTcxajU2cHV4M2s0dHcxNmthNDZoM2Rya3E4NWlidDI5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X8k5k7wtsWkSJDgBwv/giphy.gif">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGswYmU0ZTcxajU2cHV4M2s0dHcxNmthNDZoM2Rya3E4NWlidDI5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X8k5k7wtsWkSJDgBwv/giphy.gif" width="320">
 
 
 </p>
