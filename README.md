@@ -28,7 +28,7 @@ Workspace
 
 --- Current Focus
 ![status](https://img.shields.io/badge/status-exploring-f781bf)
-![process](https://img.shields.io/badge/process-learning-grey)
+![process](https://img.shields.io/badge/process-learning-ff69b4)
 ![focus](https://img.shields.io/badge/focus-building-darkgrey)
 ---
 
