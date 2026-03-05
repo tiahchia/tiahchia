@@ -1,5 +1,5 @@
 ##✨ Hi I'm Tiah ✨
-
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/> 
 
 This is my quite corner of the web I use to experiment, build and learn. 🌱
 
@@ -19,8 +19,8 @@ Workspace
 - Minimal Infrastructure 
 </td>
 <td width="50%">Pages
-- simpleandstatic.com
-- tiahchia.github.io
+- [![website](https://img.shields.io/badge/website-simpleandstatic-ff69b4)(https://simpleandstatic.com)
+- [![pages](https://img.shields.io/badge/github_pages-tiahchia=grey)(https://tiahchia.github.io)
 - huggingface.co/tiahchia
 
 </td>
