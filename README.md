@@ -18,9 +18,9 @@ This space is for **exploring, refining ideas, and crafting things that work qui
 
 | Experiments | Pages |
 |-------------|-------|
-| Local & Offline Systems | [simpleandstatic.com](https://simpleandstatic.com) |
-| Small Utilities | [GitHub Pages](https://tiahchia.github.io) |
-| Web Experiments | [huggingfacespaces.com/tiahchia](https://huggingface.co/tiahchia)  |
+| Local & Offline Systems | [huggingfacespaces.com/tiahchia](https://huggingface.co/tiahchia) ✔️ |
+| Small Utilities | [GitHub Pages](https://tiahchia.github.io) ✔️ |
+| Web Experiments |  [simpleandstatic.com](https://simpleandstatic.com) ✔️ |
 | Minimal Infrastructure |  |
 
 ---
