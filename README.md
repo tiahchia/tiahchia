@@ -1,5 +1,5 @@
 ##✨ Hi I'm Tiah ✨
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/> 
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXM1ODhtZmQ4cjB6cGdhbmg4dm90dHR4amk5a2RqYm4yaHgydWQ5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iI4vhciiVh2b3j9sgo/giphy.gif" width="1280" height="320"/> 
 
 This is my quite corner of the web I use to experiment, build and learn. 🌱
 
