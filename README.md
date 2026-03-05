@@ -13,7 +13,7 @@ This space is <strong>less</strong> about finished products
 <h3 align=center> 🧪 Stuff</h1>
 
 | Experiments | Pages |
-|----------------------|--------------|
+|----------------------|---------|
 | Local & Offline Systems | [huggingfacespaces.com/tiahchia](https://huggingface.co/tiahchia) ✔️ |
 | Small Utilities | [GitHub Pages](https://tiahchia.github.io) ✔️ |
 | Web Experiments |  [simpleandstatic.com](https://simpleandstatic.com) ✔️ |
