@@ -10,8 +10,15 @@ This space is <strong>less</strong> about finished products
 <p align=center> Most projects here are small studies, evolving tools, or creative experiments.  
 <br>This space is for **exploring, refining ideas, and crafting things that work quietly**.</p>
 
-<h3 align=center> 🧪 Stuff</h1>
 
+<h3 align=center> ⚙ Philosophy </h1>
+ <p align=center>
+Simple systems  
+Thoughtful design  
+Learning through building</p>
+---
+<h3 align=center> 🧪 Stuff</h1>
+---
 | Experiments | Pages | Status
 |----------------------|---------|----------|
 | Local & Offline Systems | [huggingfacespaces.com/tiahchia](https://huggingface.co/tiahchia) |✔️ |
@@ -30,11 +37,6 @@ This space is <strong>less</strong> about finished products
 ---
 
 
-<h3 align=center> ⚙ Philosophy </h1>
- <p align=center>
-Simple systems  
-Thoughtful design  
-Learning through building</p>
 
 
 </p>
