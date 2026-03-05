@@ -1,7 +1,6 @@
-# I'm tiahchia ✌️
+<h1 align=center> # I'm tiahchia ✌️
 
 <table>
-<p align=center> 
     This is my <i>quite corner of the web.</i> <br> 
 This space is <strong>less</strong> about finished products 
     <br> and <b>more</b> about the process of <b>experimentation</b>,
