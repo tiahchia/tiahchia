@@ -31,7 +31,7 @@ Workspace
 (https://img.shields.io/badges/process-learning-grey)
 "Building" 
 (https://img.shields.io/badges/focus-building-darkgrey)
-
+![Static Badge](https://img.shields.io/badge/:badgeContent)
 ---
 
 Selected Projects
