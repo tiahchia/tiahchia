@@ -9,6 +9,7 @@ This space is <strong>less</strong> about finished products
 
 <p align=center> Most projects here are small studies, evolving tools, or creative experiments.  
 <br>This space is for **exploring, refining ideas, and crafting things that work quietly**.</p>
+<h1 style="color:blue;">A Blue Heading</h1>
 
 </table>
 
