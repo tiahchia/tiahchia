@@ -25,7 +25,7 @@ This space is <strong>less</strong> about finished products
    |------------|-------|-----------|
    | Agentic Workflows + Training Sandbox + Backend Systems + Model Work | HF - ✔️ | [huggingfacespaces.com/tiahchia](https://huggingface.co/tiahchia)   |
    | HTML/CSS/JS + Frontend Systems + Simply Static Systems + Explorative Projects | GH  - ✔️ | [GitHub Pages](https://tiahchia.github.io)  |
-   | Webpage Templates +  Webpage Development + Server-less Mobile Web Applications  | Site - ✔️ |  [simpleandstatic.com](https://simpleandstatic.com)  |
+   | Webpage Templates +  Webpage Development + Server-less Mobile Applications  | Site - ✔️ |  [simpleandstatic.com](https://simpleandstatic.com)  |
 
 ---
 
