@@ -18,7 +18,8 @@ This space is <strong>less</strong> about finished products
 | Small Utilities | [GitHub Pages](https://tiahchia.github.io) ✔️ |
 | Web Experiments |  [simpleandstatic.com](https://simpleandstatic.com) ✔️ |
 
----</table>
+---
+
 
 <h3 align=center> 🚀 Current Focus</h1>
 
