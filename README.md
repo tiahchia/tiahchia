@@ -1,85 +1,59 @@
-##  Hi I'm Tiah!
+# tiahchia
 
-<p align="center">
-  <!-- GIF hosted in your repo for reliability -->
-  <img src="https://github.com/tiahchia/tiahchia/raw/main/assets/intro.gif" width="380" alt="Tiah GIF" />
-</p>
+A workspace for experimentation, building, and learning.
 
-This is my quiet corner of the web where I experiment, build, and learn. 🌱  
-Here, it’s all about **process over perfection** — exploring software, small systems, and creative problem-solving.
+Most projects here are small studies, evolving tools, or creative experiments.  
+This space is for **exploring, refining ideas, and crafting things that work quietly**.
 
 ---
 
-### 🛠️ Workspace
-
-| **Experiments** | **Pages** |
-|-----------------|-----------|
-| - Local + Offline Systems<br>- Web Experiments<br>- Utilities<br>- Minimal Infrastructure | - [simpleandstatic.com](https://simpleandstatic.com) ![website badge](https://img.shields.io/badge/website-simpleandstatic-ff69b4)<br>- [GitHub Pages](https://tiahchia.github.io) ![pages badge](https://img.shields.io/badge/github_pages-tiahchia-grey)<br>- [Hugging Face](https://huggingface.co/tiahchia) |
+<!-- Banner / GIF animation placeholder -->
+<!-- Upload a GIF to a GitHub repo and replace the URL below -->
+![Banner Animation](https://github.com/tiahchia/animations/raw/main/banner-animation.gif)
 
 ---
 
-### 🎯 Current Focus
+## 🧪 Workspace
 
-<p align="center">
-  ![status](https://img.shields.io/badge/status-exploring-ff69b4)
-  ![process](https://img.shields.io/badge/process-learning-ff69b4)
-  !![focus](https://img.shields.io/badge/focus-building-ff69b4)
-</p>
-
----
-
-### 📌 Featured Projects
-
-- 🧠 Offline AI Companion Tools  
-- 📦 Web Utilities & Minimal APIs  
-- 🎨 Creative & Static Interfaces  
+| Experiments | Pages |
+|-------------|-------|
+| Local & Offline Systems | [simpleandstatic.com](https://simpleandstatic.com) |
+| Small Utilities | [GitHub Pages](https://tiahchia.github.io) |
+| Web Experiments |  |
+| Minimal Infrastructure |  |
 
 ---
 
-### 💡 Philosophy
+## 🚀 Current Focus
 
-- **Simple systems → simple & static**  
-- **Learning through building & exploration**  
-- **Iterative improvement over immediate perfection**
-
----
-
-### ⚡ Fun Extras
-
-<p align="center">
-  🌱 Currently exploring local systems, web experiments & creative problem-solving! 🌱
-</p>
-
-<p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=tiahchia&style=flat)
-</p>
+![Status](https://img.shields.io/badge/status-exploring-lightgrey?style=for-the-badge)
+![Process](https://img.shields.io/badge/process-learning-grey?style=for-the-badge)
+![Focus](https://img.shields.io/badge/focus-building-ff69b4?style=for-the-badge&colorA=ff69b4&colorB=ff85c0)
 
 ---
 
-### 🤝 Connect With Me
+## 📦 Selected Projects
 
-<p align="center">
-  <a href="https://linkedin.com/in/tiahchia">
-    <img src="https://img.shields.io/badge/LinkedIn-TiahChia-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/tiahchia">
-    <img src="https://img.shields.io/badge/Twitter-@tiahchia-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter" />
-  </a>
-  <a href="https://huggingface.co/tiahchia">
-    <img src="https://img.shields.io/badge/HuggingFace-tiahchia-FF9900?style=for-the-badge&logo=huggingface" alt="Hugging Face" />
-  </a>
-</p>
+Pinned repositories below represent current areas of exploration.  
+*(Use GitHub’s “Customize your pins” to select your top projects)*
 
 ---
 
-### ✨ Fun Facts
+## 📊 GitHub Stats
 
-- I love tinkering with **offline systems & local AI**  
-- I enjoy **gardening & chicken keeping** 🐔🌿  
-- My workspace blends **tech + nature vibes**  
+<!-- Live stats, hot-pink accents possible -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tiahchia&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tiahchia&layout=compact&theme=radical)
 
 ---
 
-<p align="center">
-  Made with 💖 by Tiah
-</p>
+## ⚙ Philosophy
+
+Simple systems  
+Thoughtful design  
+Learning through building
+
+---
+
+Thanks for stopping by!
