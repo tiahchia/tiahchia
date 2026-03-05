@@ -21,7 +21,6 @@ This space is for **exploring, refining ideas, and crafting things that work qui
 | Local & Offline Systems | [huggingfacespaces.com/tiahchia](https://huggingface.co/tiahchia) ✔️ |
 | Small Utilities | [GitHub Pages](https://tiahchia.github.io) ✔️ |
 | Web Experiments |  [simpleandstatic.com](https://simpleandstatic.com) ✔️ |
-| Minimal Infrastructure |  |
 
 ---
 
