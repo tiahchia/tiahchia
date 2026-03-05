@@ -11,16 +11,7 @@ This space is <strong>less</strong> about finished products
 <br>This space is for **exploring, refining ideas, and crafting things that work quietly**.</p>
 
 
-<h3 align=center> ⚙ Philosophy </h1>
- <p align=center>
-Simple systems  
-Thoughtful design  
-Learning through building
-
----
-
-
-<h3 align=center> 🧪 Stuff</h1>
+<h3 align=center> 🧪 my stuff</h1>
 
    | Experiments | Status | Links |
    |------------|-------|-----------|
