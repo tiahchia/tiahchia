@@ -10,7 +10,7 @@ This space is <strong>less</strong> about finished products
 <p align=center> Most projects here are small studies, evolving tools, or creative experiments.  
 <br>This space is for **exploring, refining ideas, and crafting things that work quietly**.</p>
 
-<h1 align=center> 🧪 Stuff</h1>
+<h3 align=center> 🧪 Stuff</h1>
 
 | Experiments | Pages |
 |-------------|-------|
@@ -20,7 +20,7 @@ This space is <strong>less</strong> about finished products
 
 ---</table>
 
-<h1 align=center> 🚀 Current Focus</h1>
+<h3 align=center> 🚀 Current Focus</h1>
 
 ![Status](https://img.shields.io/badge/status-exploring-lightgrey?style=for-the-badge)
 ![Process](https://img.shields.io/badge/process-learning-grey?style=for-the-badge)
@@ -29,7 +29,7 @@ This space is <strong>less</strong> about finished products
 ---
 
 
-<h1 align=center> ⚙ Philosophy </h1>
+<h3 align=center> ⚙ Philosophy </h1>
  <p align=center>
 Simple systems  
 Thoughtful design  
