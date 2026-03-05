@@ -10,6 +10,13 @@ This space is <strong>less</strong> about finished products
 <p align=center> Most projects here are small studies, evolving tools, or creative experiments.  
 <br>This space is for **exploring, refining ideas, and crafting things that work quietly**.</p>
 
+<h3 align=center> 🚀 Current Focus</h1>
+
+![Status](https://img.shields.io/badge/status-exploring-lightgrey?style=for-the-badge)
+![Process](https://img.shields.io/badge/process-learning-grey?style=for-the-badge)
+![Focus](https://img.shields.io/badge/focus-building-ff69b4?style=for-the-badge&colorA=ff69b4&colorB=ff85c0)
+
+---
 
 <h3 align=center> 🧪 my stuff</h1>
 
@@ -22,13 +29,6 @@ This space is <strong>less</strong> about finished products
 ---
 
 
-<h3 align=center> 🚀 Current Focus</h1>
-
-![Status](https://img.shields.io/badge/status-exploring-lightgrey?style=for-the-badge)
-![Process](https://img.shields.io/badge/process-learning-grey?style=for-the-badge)
-![Focus](https://img.shields.io/badge/focus-building-ff69b4?style=for-the-badge&colorA=ff69b4&colorB=ff85c0)
-
----
 
 
 
