@@ -1,10 +1,14 @@
 # I'm tiahchia ✌️
 
-<table>This is my <i>quite corner of the web.</i> <br> 
+<table>
+  <p align=center> 
+    This is my <i>quite corner of the web.</i> <br> 
 This space is <strong>less</strong> about finished products and <b>more</b> about the process of <b>experimentation</b>, <i>refining</i> ideas, and gradually developing better local tools.
 
 Most projects here are small studies, evolving tools, or creative experiments.  
-This space is for **exploring, refining ideas, and crafting things that work quietly**.</table>
+This space is for **exploring, refining ideas, and crafting things that work quietly**.
+</p>
+</table>
 
 ---
 
