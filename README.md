@@ -22,7 +22,7 @@ Learning through building
 
 <h3 align=center> 🧪 Stuff</h1>
 
-| Experiments | Pages | Status
+| Experiments | Pages | Status |
 |------------|-------|-------|----------|
 | Agentic + Training | Sandbox | Backend Systems | [huggingfacespaces.com/tiahchia](https://huggingface.co/tiahchia) |✔️ |
 | HTML/CSS/JS | Frontend Systems  | Static Uploads| [GitHub Pages](https://tiahchia.github.io) |✔️ |
