@@ -28,4 +28,5 @@ This space is <strong>less</strong> about finished products
    | Webpage Templates +  Webpage Development + Server-less Mobile Applications  | ✔️ |  [simpleandstatic.com](https://simpleandstatic.com)  |
 
 
-<h1 align=center> 🌙 Thanks for stopping by! 🤍
+<h1 align=center> 🌙 Thanks for stopping by! ✌️
+<br>🤍
