@@ -17,7 +17,7 @@ This space is <strong>less</strong> about finished products
 <!-- Banner / GIF animation placeholder -->
 <!-- Upload a GIF to a GitHub repo and replace the URL below -->
 ![Banner Animation](https://github.com/tiahchia/animations/raw/main/banner-animation.gif)
-
+<p style="color:DodgerBlue;">Lorem ipsum...</p>
 ---
 
 ## 🧪 Stuff
