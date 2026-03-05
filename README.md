@@ -19,13 +19,13 @@ This space is <strong>less</strong> about finished products
 ![Status](https://img.shields.io/badge/explore-everything-lightgrey?style=for-the-badge)
 ---
 
-<h3 align=center>  ✨ all the places my stuff lives:</h1>
+<h3 align=center>  ✨ all the places my stuff lives ✨</h1>
 
    | Projects + Experiments | Status | Links |
    |------------|-------|-----------|
-   | Agentic Workflows + Training Sandbox + Backend Systems + Model Work | HF - ✔️ | [huggingfacespaces.com/tiahchia](https://huggingface.co/tiahchia)   |
-   | HTML/CSS/JS + Frontend Systems + Simply Static Systems + Explorative Projects | GH  - ✔️ | [GitHub Pages](https://tiahchia.github.io)  |
-   | Webpage Templates +  Webpage Development + Server-less Mobile Applications  | Site - ✔️ |  [simpleandstatic.com](https://simpleandstatic.com)  |
+   | Agentic Workflows + Training Sandbox + Backend Systems + Model Work | ✔️ | [huggingfacespaces.com/tiahchia](https://huggingface.co/tiahchia)   |
+   | HTML/CSS/JS + Frontend Systems + Simply Static Systems + Explorative Projects |  ✔️ | [GitHub Pages](https://tiahchia.github.io)  |
+   | Webpage Templates +  Webpage Development + Server-less Mobile Applications  | ✔️ |  [simpleandstatic.com](https://simpleandstatic.com)  |
 
 ---
 
