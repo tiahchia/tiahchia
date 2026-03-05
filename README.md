@@ -1,6 +1,7 @@
-# tiahchia
+# I'm tiahchia ✌️
 
-A workspace for experimentation, building, and learning.
+This is my quite corner of the web. 
+This space is less about finished products and more about the process of experimentation, refining ideas, and gradually developing better local tools.
 
 Most projects here are small studies, evolving tools, or creative experiments.  
 This space is for **exploring, refining ideas, and crafting things that work quietly**.
