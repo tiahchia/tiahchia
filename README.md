@@ -18,7 +18,7 @@ Thoughtful design
 Learning through building</p>
 ---
 <h3 align=center> 🧪 Stuff</h1>
----
+
 | Experiments | Pages | Status
 |----------------------|---------|----------|
 | Local & Offline Systems | [huggingfacespaces.com/tiahchia](https://huggingface.co/tiahchia) |✔️ |
