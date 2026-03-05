@@ -29,4 +29,4 @@ This space is <strong>less</strong> about finished products
 
 ---
 
-Thanks for stopping by! 🤍
+<h1 align=center> 🌙 Thanks for stopping by! 🤍
