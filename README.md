@@ -12,7 +12,7 @@ This space is <strong>less</strong> about finished products
 
 <h3 align=center> 🚀 Current Focus</h1>
 
-![Status](https://img.shields.io/badge/status-experimental-lightgrey?style=for-the-badge)
+![Status](https://img.shields.io/badge/status-experiment-lightgrey?style=for-the-badge)
 ![Process](https://img.shields.io/badge/process-learning-grey?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/focus-building-ff69b4?style=for-the-badge&colorA=ff69b4&colorB=ff85c0)
 ![Status](https://img.shields.io/badge/goal-achievement-lightgrey?style=for-the-badge)
