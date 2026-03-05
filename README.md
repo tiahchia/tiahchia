@@ -15,8 +15,8 @@ This space is <strong>less</strong> about finished products
 ![Status](https://img.shields.io/badge/status-explore-lightgrey?style=for-the-badge)
 ![Process](https://img.shields.io/badge/process-learning-grey?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/focus-building-ff69b4?style=for-the-badge&colorA=ff69b4&colorB=ff85c0)
-![Status](https://img.shields.io/badge/goal-achievement-lightgrey?style=for-the-badge)
-![Status](https://img.shields.io/badge/status-happy-lightgrey?style=for-the-badge)
+![Status](https://img.shields.io/badge/goal-achieve-lightgrey?style=for-the-badge)
+![Status](https://img.shields.io/badge/explore-everything-lightgrey?style=for-the-badge)
 ---
 
 <h3 align=center> 🧪 my stuff</h1>
