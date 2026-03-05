@@ -15,8 +15,11 @@ This space is <strong>less</strong> about finished products
  <p align=center>
 Simple systems  
 Thoughtful design  
-Learning through building</p>
+Learning through building
+
 ---
+
+
 <h3 align=center> 🧪 Stuff</h1>
 
 | Experiments | Pages | Status
