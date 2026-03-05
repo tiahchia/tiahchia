@@ -23,9 +23,9 @@ This space is <strong>less</strong> about finished products
 
    | Projects + Experiments | Status | Links |
    |------------|-------|-----------|
-   | Agentic Workflows + Training Sandbox + Backend Systems - GPU | HF - ✔️ | [huggingfacespaces.com/tiahchia](https://huggingface.co/tiahchia)   |
-   | HTML/CSS/JS + Frontend Systems + Simply Static Systems - CPU | GH  - ✔️ | [GitHub Pages](https://tiahchia.github.io)  |
-   | Web Templates +  Web Development + Server-less -CPU | Site - ✔️ |  [simpleandstatic.com](https://simpleandstatic.com)  |
+   | Agentic Workflows + Training Sandbox + Backend Systems + Model Work | HF - ✔️ | [huggingfacespaces.com/tiahchia](https://huggingface.co/tiahchia)   |
+   | HTML/CSS/JS + Frontend Systems + Simply Static Systems + Explorative Projects | GH  - ✔️ | [GitHub Pages](https://tiahchia.github.io)  |
+   | Webpage Templates +  Webpage Development + Server-less Mobile Web Applications  | Site - ✔️ |  [simpleandstatic.com](https://simpleandstatic.com)  |
 
 ---
 
